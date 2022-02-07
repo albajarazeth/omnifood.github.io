@@ -1,1 +1,2 @@
-# omnifood.github.io
+# omnifood
+Is a landing page challange from Jonas Schmedtmann
